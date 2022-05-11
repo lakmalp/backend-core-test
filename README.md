@@ -1,4 +1,4 @@
-# Premialabs backend project template
+# Companion project for backend-core package
 
 ## Dependencies
 
