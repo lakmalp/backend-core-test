@@ -996,11 +996,11 @@
         },
         {
             "name": "lakmalp/backend-core",
-            "version": "1.0.11",
+            "version": "1.0.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/lakmalp/backend-core.git",
-                "reference": "f0c092debc26996b1e15f08d5be29a73ed58fc32"
+                "reference": "9fc4a2339f6738580af32412cd7ebb2de2e28ea7"
             },
             "type": "library",
             "extra": {
@@ -1026,7 +1026,7 @@
                 }
             ],
             "description": "Laravel backend framework of Premia Labs (Pvt) Ltd",
-            "time": "2022-05-11T05:55:02+00:00"
+            "time": "2022-05-14T02:08:56+00:00"
         },
         {
             "name": "laravel/fortify",
